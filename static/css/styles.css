@@ -1,0 +1,9 @@
+/* background  */
+body{
+    background-color: #ffffff;
+    background-image: url("dp.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    text-align : center;
+    
+}
