@@ -34,7 +34,7 @@ def home():
         prediction = model.predict(scaler.transform(input_features))
         #print(prediction)
 
-    return render_template(index.html, prediction=prediction)
+    return render_template("https://github.com/VIKAS-BUDHANI/Diabetic_Prediction.github.io/blob/dc6d7ac28033c1d298161f713c2a4e585a654927/app.py", prediction=prediction)
 
 
 if __name__ == '__main__':
