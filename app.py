@@ -33,13 +33,9 @@ def home():
         #print(input_features)
         prediction = model.predict(scaler.transform(input_features))
         #print(prediction)
-
-<<<<<<< HEAD
+        
     return render_template('index.html', prediction=prediction)
-=======
-    return render_template("index.html", prediction=prediction)
 
->>>>>>> 2a75f3606b98772c140eb0e198a64edb6bcbb6bb
 
 if __name__ == '__main__':
     app.run(debug=True)
