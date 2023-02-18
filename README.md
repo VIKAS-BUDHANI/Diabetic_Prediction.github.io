@@ -24,7 +24,9 @@ The algorithm used for this model is Logistic Regression and the accuracy of mod
 
 ## Steps to run the model
 * First Download the resposiory and open in you VScode or pycharm etc.
-* Install the python libraries 
+* Install the python libraries from (requirements.txt) file.
+* After installing all the libraries run (python .\diabetes_prediction.py) code. to see the algorithm of machine learing and see the accuracy of the models.
 * Run you VS terminal and  type the directory (cd .\app\) run the code.
 * After opeing app directory  run the app file -------  (python .\app.py)
-* It will generate the  
+* It will host the application on you local host.
+* Click the host link and check the application.
