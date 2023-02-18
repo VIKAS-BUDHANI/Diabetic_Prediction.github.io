@@ -20,3 +20,11 @@ various variable contain
 
 ## Result 
 The algorithm used for this model is Logistic Regression and the accuracy of model is 76 %.
+
+
+## Steps to run the model
+* First Download the resposiory and open in you VScode or pycharm etc.
+* Install the python libraries 
+* Run you VS terminal and  type the directory (cd .\app\) run the code.
+* After opeing app directory  run the app file -------  (python .\app.py)
+* It will generate the  
