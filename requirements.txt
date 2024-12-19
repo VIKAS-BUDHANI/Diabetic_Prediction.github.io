@@ -24,7 +24,7 @@ distlib==0.3.6
 executing==1.2.0
 fastjsonschema==2.16.2
 filelock==3.8.2
-Flask==2.2.2
+Flask==2.2.5
 Flask-SQLAlchemy==3.0.2
 fonttools==4.38.0
 fqdn==1.5.1
